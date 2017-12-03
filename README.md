@@ -1,9 +1,13 @@
 # Interview
 关于春招、校招、实习的一些计划、练习以及项目
 
-##关于算法
+## 关于练习
+##### 关于算法
 > - [ ] 剑指offer ![](http://progressed.io/bar/6)
-> - [ ] LeetCode    ![](http://progressed.io/bar/0)
+> - [ ] LeetCode - Algorithms    ![](http://progressed.io/bar/0)
+
+##### 关于数据库
+> - [ ] LeetCode - Database ![](http://progressed.io/bar/0)
 
 ## 关于书籍
 *后续会加入笔记*
