@@ -24,6 +24,3 @@
 ##关于英语
 单词进度    ![](http://progressed.io/bar/28)
 
-
-
-
