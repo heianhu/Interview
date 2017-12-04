@@ -3,7 +3,7 @@
 
 ## 关于练习
 ##### 关于算法
-> - [ ] 剑指offer ![](http://progressed.io/bar/6)
+> - [ ] 剑指offer ![](http://progressed.io/bar/12)
 > - [ ] LeetCode - Algorithms    ![](http://progressed.io/bar/0)
 
 ##### 关于数据库
@@ -26,5 +26,5 @@
 > - [ ] 获取Cnki的数据并建立搜索
 
 ## 关于英语
-单词进度    ![](http://progressed.io/bar/28)
+单词进度    ![](http://progressed.io/bar/29)
 
