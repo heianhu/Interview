@@ -11,7 +11,7 @@
 
 ## 关于书籍
 *后续会加入笔记*
-> - [ ] Python学习手册:第4版
+> - [ ] Python学习手册:第4版  ![](http://progressed.io/bar/7)
 > - [ ] 流畅的Python
 > - [ ] 鸟哥的Linux私房菜
 > - [x] 精通Python设计模式
