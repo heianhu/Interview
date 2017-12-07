@@ -3,7 +3,7 @@
 
 ## 关于练习
 ##### 关于算法
-> - [ ] 剑指offer ![](http://progressed.io/bar/17)
+> - [ ] 剑指offer ![](http://progressed.io/bar/18)
 > - [ ] LeetCode - Algorithms    ![](http://progressed.io/bar/0)
 
 ##### 关于数据库
@@ -11,7 +11,7 @@
 
 ## 关于书籍
 *后续会加入笔记*
-> - [ ] Python学习手册:第4版  ![](http://progressed.io/bar/7)
+> - [ ] Python学习手册:第4版  ![](http://progressed.io/bar/10)
 > - [ ] 流畅的Python   ![](http://progressed.io/bar/6)
 > - [ ] 鸟哥的Linux私房菜 ![](http://progressed.io/bar/78)
 > - [x] 精通Python设计模式
@@ -26,5 +26,5 @@
 > - [ ] 获取Cnki的数据并建立搜索
 
 ## 关于英语
-单词进度    ![](http://progressed.io/bar/30)
+单词进度    ![](http://progressed.io/bar/32)
 
