@@ -11,19 +11,21 @@
 
 ## 关于书籍
 *后续会加入笔记*
-> - [ ] Python学习手册:第4版  ![](http://progressed.io/bar/10)
+> - [x] Python学习手册:第4版 
 > - [ ] 流畅的Python   ![](http://progressed.io/bar/6)
-> - [ ] 鸟哥的Linux私房菜 ![](http://progressed.io/bar/78)
+> - [x] 鸟哥的Linux私房菜 
 > - [x] 精通Python设计模式
 > - [x] 算法图解
 > - [ ] 计算机组成原理
 > - [ ] 计算机网络原理
-> - [ ] 操作系统--精髓与设计原理(第8版)
+> - [x] 操作系统--精髓与设计原理(第8版)
+> - [x] C++ Primer  ×2
 
 ## 关于项目
-> - [x] 放射性核素沉降修正模型研究与数据分析软件开发
-> - [x] http://acechempack.com/
-> - [ ] 获取Cnki的数据并建立搜索
+> - 放射性核素沉降修正模型研究与数据分析软件开发
+> - http://acechempack.com/
+> - 某4S店管理系统
+> - 获取Cnki的数据并建立搜索
 
 ## 关于英语
 单词进度    ![](http://progressed.io/bar/32)
