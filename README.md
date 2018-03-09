@@ -3,8 +3,8 @@
 
 ## 关于练习
 ##### 关于算法
-> - [ ] 剑指offer ![](http://progressed.io/bar/18)
-> - [ ] LeetCode - Algorithms    ![](http://progressed.io/bar/0)
+> - [ ] 剑指offer ![](http://progressed.io/bar/47)
+> - [ ] LeetCode - Algorithms    ![](http://progressed.io/bar/58)
 
 ##### 关于数据库
 > - [ ] LeetCode - Database ![](http://progressed.io/bar/0)
