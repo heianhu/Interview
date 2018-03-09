@@ -10,14 +10,14 @@
 > - [ ] LeetCode - Database ![](http://progressed.io/bar/0)
 
 ## 关于书籍
-*后续会加入笔记*
+
 > - [x] Python学习手册:第4版 
 > - [ ] 流畅的Python   ![](http://progressed.io/bar/6)
 > - [x] 鸟哥的Linux私房菜 
 > - [x] 精通Python设计模式
 > - [x] 算法图解
-> - [ ] 计算机组成原理
-> - [ ] 计算机网络原理
+> - [x] 计算机组成原理
+> - [x] 计算机网络原理
 > - [x] 操作系统--精髓与设计原理(第8版)
 > - [x] C++ Primer  ×2
 
