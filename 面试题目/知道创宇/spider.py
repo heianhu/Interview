@@ -100,8 +100,6 @@ class UI(threading.Thread):
                 count += 1
                 if keys[n - d][1] > max_file[d - 1]:
                     max_file[d - 1] = keys[n - d][1]
-                # screen.addstr(count, 0, 'level ' + str(d) + ' : ' +
-                #               str(keys[n - d][1]) + ' / ' + str(max_file[d - 1]))
                 if max_file[d - 1] == 0:
                     num = 1
                 else:
