@@ -13,7 +13,7 @@
 ## 关于书籍
 
 > - [x] Python学习手册:第4版 
-> - [ ] 流畅的Python   ![](http://progressed.io/bar/6)
+> - [ ] 流畅的Python   ![](http://progressed.io/bar/41)
 > - [x] 鸟哥的Linux私房菜 
 > - [x] 精通Python设计模式
 > - [x] 算法图解
