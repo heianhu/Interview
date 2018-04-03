@@ -13,7 +13,7 @@
 ## 关于书籍
 
 > - [x] Python学习手册:第4版 
-> - [ ] 流畅的Python   ![](http://progressed.io/bar/41)
+> - [ ] 流畅的Python   ![](http://progressed.io/bar/59)
 > - [x] 鸟哥的Linux私房菜 
 > - [x] 精通Python设计模式
 > - [x] 算法图解
@@ -35,6 +35,4 @@
 > - 2 次学校网络安全知识竞赛一等奖
 
 
-## 关于英语
-单词进度    ![](http://progressed.io/bar/32)
 
