@@ -21,7 +21,11 @@
 > - [x] 计算机网络原理
 > - [x] 操作系统--精髓与设计原理(第8版)
 > - [x] C++ Primer  ×2
-> - [ ] TensorFlow入门与实践 ![](http://progressed.io/bar/23)
+> - [x] TensorFlow入门与实践 
+> - [ ] Python+Spark 2.0+Hadoop 机器学习与大数据实战 ![](http://progressed.io/bar/23)
+> - [ ] 统计学习方法 ![](http://progressed.io/bar/3)
+> - [ ] 机器学习实战 ![](http://progressed.io/bar/0)
+> - [ ] R语言实战 ![](http://progressed.io/bar/0)
 
 ## 关于项目
 > - 放射性核素沉降修正模型研究与数据分析软件开发
